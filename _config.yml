@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A blog created for the sole purpose of personal posterity. 
   My memory is utter crap, and therefore I need an archive of sorts.
   
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jeffjanko.ws" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
